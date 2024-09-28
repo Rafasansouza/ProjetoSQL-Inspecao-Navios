@@ -8,7 +8,7 @@ O foco deste projeto foi analisar o dataset, disponibilizado pela ANVISA, **DADO
 
 ### Consultas realizadas:
 
-- Seleção de todas as embarcações.
+- Consultar a tabela para conferir se criada e carregada corretamente.
 - Filtragem de embarcações com pontuação de risco igual a 310.
 - Consulta de embarcações com classificação de risco A e índice de conformidade maior ou igual a 95%.
 - Filtragem de embarcações com classificação de risco C ou D e índice de conformidade menor ou igual a 95%.
