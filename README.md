@@ -4,7 +4,7 @@ Neste projeto, desenvolvi consultas SQL em um banco de dados MySQL que contém i
 
 ## O Projeto 🎯
 
-O foco deste projeto foi analisar o dataset **DADOS_ABERTOS_INSPECAO_NAVIO.csv** via MySQL, utilizando queries SQL para responder a diferentes questões relacionadas à classificação de risco e conformidade das embarcações.
+O foco deste projeto foi analisar o dataset, disponibilizado pela ANVISA, **DADOS_ABERTOS_INSPECAO_NAVIO.csv** via MySQL, utilizando queries SQL para responder a diferentes questões relacionadas à classificação de risco e conformidade das embarcações.
 
 ### Consultas realizadas:
 
